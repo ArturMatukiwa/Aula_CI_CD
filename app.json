@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+    "slug": "arturcicd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,6 +29,7 @@
       "eas": {
         "projectId": "42254e49-640d-4b8d-b451-eb0249d3ee52"
       }
-    }
+    },
+    "owner": "artur-matukiwa"
   }
 }
